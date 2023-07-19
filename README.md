@@ -1,2 +1,2 @@
-# myatm
-I have done a ATM mini project using java
+# javacodes 
+I have done a code using java to improve my skills
